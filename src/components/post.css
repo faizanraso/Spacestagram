@@ -1,0 +1,24 @@
+.like-button{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 350px;
+    margin-right: -40px;
+}
+
+.post-title{
+    font-family: monospace;
+}
+
+.post-date{
+    display: inline-block;
+    font-family: monospace;
+}
+
+.post-image{
+    margin-top: 10px;
+    font-family: monospace;
+}
+
+.post-description{
+    font-family: monospace;
+}

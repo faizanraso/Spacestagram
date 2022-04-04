@@ -1,0 +1,53 @@
+.App {
+  background-color: #082032;
+}
+
+body{
+  background-color: #082032;
+}
+
+.navbar{
+  background-color: #082032;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.post-card{
+  width: 32rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12px;
+  background-color: #2C394B;
+  border-radius: 2%;
+}
+
+.title{
+  font-size: 2.2rem;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+}
+
+.post-title{
+  text-align: center;
+  color: white;
+}
+
+.post-date{
+  color: white;
+}
+
+.post-description{
+  color: white;
+}
+
+
+.like-button{
+  height: 2rem;
+}
+
+.flex-display{
+  display: inline;
+}
