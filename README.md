@@ -4,6 +4,13 @@ https://user-images.githubusercontent.com/59986120/161642835-43399af9-4854-4b7e-
 
 
 
+## Before Running
+
+In the project directory, you can run:
+
+### `npm install`
+
+to install all required dependencies
 
 ## Available Scripts
 
